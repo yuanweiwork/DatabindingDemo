@@ -1,0 +1,2 @@
+include ':demo01'
+rootProject.name = "DatabindingDemo"
